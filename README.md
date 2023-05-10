@@ -2,7 +2,7 @@
 
 ## Front End Developer Student
 
-I'm currently studying Front End Development after years of working in sales. I still have a lot to learn but I'm always interested in learning more. I have a lot of experience in HTML, CSS, JavaScript and VueJS.
+I'm currently studying Front End Development after years of working in sales. I still have a lot to learn but I'm always interested in learning more. I have a lot of experience in HTML, CSS, JavaScript, Vue, and now React. For Backend we've started learning about SQLite, MongoDB and Express.
 
 - 🌍  I'm based in Gothenburg
 - ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
