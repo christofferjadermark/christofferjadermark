@@ -6,7 +6,7 @@ I'm currently studying Front End Development after years of working in sales. I 
 
 - 🌍  I'm based in Gothenburg
 - ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
-- 🧠  I'm learning VueJS
+- 🧠  I'm currently learning Fullstack development
 
 ### Skills
 
