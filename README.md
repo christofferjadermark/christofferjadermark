@@ -6,10 +6,12 @@ Web Developer
 
 I've been learning how to code the past year when going to school at IT Högskolan in Gothenburg, I've soon done my first year and it's time for my internship in august.
 
-*   🌍  I'm based in Gothenburg, Sweden.
-*   ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
-*   🚀  I'm currently working on [Ninja Taskmaster](http://github.com/christofferjadermark/ninja-taskmaster)
-*   🧠  I'm learning React, MongoDB, Express, PostgreSQL, Tailwind and much more.### Skills 
+*   🌍  I'm based in Gothenburg, Sweden.
+*   ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
+*   🚀  I'm currently working on [Ninja Taskmaster](http://github.com/christofferjadermark/ninja-taskmaster)
+*   🧠  I'm learning React, MongoDB, Express, PostgreSQL, Tailwind and much more.
+
+### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,14 +35,7 @@ I've been learning how to code the past year when going to school at IT Högskol
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Jade#9289" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/christofferjadermark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/christoffer-jadermark-88956b100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Jade#9289" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/christofferjadermark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christoffer-jadermark-88956b100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
