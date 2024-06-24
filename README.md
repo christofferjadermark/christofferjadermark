@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learning how to code the past year when going to school at IT Högskolan in Gothenburg, I've soon done my first year and it's time for my internship in august.
+I've recently completed my education in coding at IT Högskolan in Gothenburg. Now, I'm actively seeking work opportunities. During my studies, I gained hands-on experience in various programming languages and development tools, and I'm eager to apply these skills in a professional setting. I am particularly interested in roles that will allow me to further develop my expertise and contribute to innovative projects. I'm enthusiastic about joining a dynamic team where I can grow and make a meaningful impact.
 
 *   🌍  I'm based in Gothenburg, Sweden.
 *   ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
-*   🚀  I'm currently working on [Ninja Taskmaster](http://github.com/christofferjadermark/ninja-taskmaster)
+*   🚀  I'm currently working on [Deviazione](https://deviazione.com/)
 *   🧠  I'm learning React, MongoDB, Express, PostgreSQL, Tailwind and much more.
 
 ### Skills 
