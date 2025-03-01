@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've recently completed my education in coding at IT Högskolan in Gothenburg. Now, I'm actively seeking work opportunities. During my studies, I gained hands-on experience in various programming languages and development tools, and I'm eager to apply these skills in a professional setting. I am particularly interested in roles that will allow me to further develop my expertise and contribute to innovative projects. I'm enthusiastic about joining a dynamic team where I can grow and make a meaningful impact.
+I've recently completed my education in coding at IT Högskolan in Gothenburg and have successfully secured a position as a system developer. During my studies, I gained hands-on experience in various programming languages and development tools, which I'm now applying in my professional role. In my current position, I'm further developing my expertise while contributing to innovative projects. I'm enjoying being part of a dynamic team where I can continue to grow and make a meaningful impact. The transition from education to professional work has been both challenging and rewarding, allowing me to put my skills into practice in real-world scenarios.
 
 *   🌍  I'm based in Gothenburg, Sweden.
 *   ✉️  You can contact me at [christoffer.jadermark@gmail.com](mailto:christoffer.jadermark@gmail.com)
